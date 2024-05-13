@@ -1,0 +1,12 @@
+POST http://127.0.0.1:8000/api/user
+Content-Type: application/json
+
+{
+    "first_name": "tina",
+    "last_name": "tecson",
+    "username": "tina123",
+    "location":"las pinas",
+    "email": "tina@gmail.com",
+    "password": "tinatecson"
+
+}
